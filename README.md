@@ -1,4 +1,4 @@
-dino.gif
+![Alt Text](dino.gif)
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">A passionate developer contributing to #OpenSource</h3>
 
