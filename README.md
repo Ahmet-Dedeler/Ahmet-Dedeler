@@ -2,7 +2,7 @@
   <img src="dino.gif">
 </p>
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">A passionate developer contributing to #OpenSource</h3>
+<h3 align="center">I'm a passionate developer contributing to #OpenSource</h3>
 
 
 - 🔭 I’m currently working on **Open Source**
