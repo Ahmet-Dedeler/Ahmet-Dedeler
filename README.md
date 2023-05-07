@@ -1,4 +1,3 @@
-![Alt Text](dino.gif)
 <p align="center">
   <img src="dino.gif">
 </p>
