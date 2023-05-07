@@ -4,9 +4,11 @@
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">A passionate developer contributing to #OpenSource</h3>
 
+
 - 🔭 I’m currently working on **Open Source**
 
 - 💬 Ask me about **Open Source, Python, and JavaScript**
+
 
 </p>
 
