@@ -1,4 +1,7 @@
 ![Alt Text](dino.gif)
+<p align="center">
+  <img src="dino.gif">
+</p>
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">A passionate developer contributing to #OpenSource</h3>
 
