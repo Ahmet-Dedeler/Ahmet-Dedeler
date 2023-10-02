@@ -2,12 +2,12 @@
   <img src="dino.gif">
 </p>
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">I'm a passionate developer contributing to #OpenSource</h3>
+<h3 align="center">I'm Ahmet, trying to build cool stuff. 🏗️</h3>
 
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **many things**
 
-- 💬 Ask me about **Open Source, Python, and JavaScript**
+- 💬 Talk to me about **Startups, Hackathons, and SaaS 🔧🚀**
 
 
 </p>
