@@ -2,7 +2,7 @@
   <img src="dino.gif">
 </p>
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">I'm Ahmet, trying to build cool stuff. 🏗️</h3>
+<h3 align="center">I'm Ahmet, building cool stuff. 🏗️</h3>
 
 
 - 🔭 I’m currently working on **many things.**
