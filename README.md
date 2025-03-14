@@ -5,9 +5,9 @@
 <h3 align="center">I'm Ahmet, building cool stuff. 🏗️</h3>
 
 
-- 🔭 I’m currently working on **many things.**
+- 🔭 I’m currently working on **Machine Learning, Computer Vision, LLMs.**
 
-- 💬 Talk to me about **Startups, Hackathons, and SaaS! 🔧🚀**
+- 💬 Talk to me about **AI, Mobile Apps, and Building In Public! 🔧🚀**
 
 
 </p>
